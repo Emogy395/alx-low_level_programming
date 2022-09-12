@@ -6,7 +6,7 @@
  * main - Prints the last digit of a randomly generated number
  * and weather it is greater than 5, 0 or less than 6.
  * Return: Always 0.
-*/
+ */
 int main(void)
 {
 	int n;
