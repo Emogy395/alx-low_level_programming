@@ -5,7 +5,7 @@
  * @n: number of the times table
 */
 
-void print_time_table(int n)
+void prints_time_table(int n)
 {
 	int i, j, k;
 	if (n >= 0 && n <= 15)
